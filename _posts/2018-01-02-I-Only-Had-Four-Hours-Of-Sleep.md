@@ -13,3 +13,5 @@ I'll see what I can do about CSS shit today. However, since I'm still legally a 
 *it's drainin' i tells ya*
 
 Edit: Jesus fucking christ trying to get a gemmed theme working on here is frustrating.
+
+More fucking edits: Alright, so get this. I'm probably going to have to recreate the website from fucking scratch in order to get what I want for CSS. Yes, from scratch. If you don't see this blog post later, you know why.
