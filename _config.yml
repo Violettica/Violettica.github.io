@@ -22,7 +22,7 @@ repository: Violet-Maverick/Violet-Maverick.github.io
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: minima
 plugins:
   - jekyll-feed
 
