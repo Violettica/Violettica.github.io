@@ -18,9 +18,7 @@
   <meta name="theme-color" content="#ffffff">
 
   {% seo %}
-  <nav>
-    <a href="/blog/">Blog</a>
-  </nav>
+
   <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -33,6 +31,12 @@
     <header>
       <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
     </header>
+    <nav>
+      <h3>
+        <a href="/">Main</a> |
+        <a href="/blog/">Blog</a>
+      </h3>
+    </nav>
     <div id="container">
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <div id="main" role="main">
